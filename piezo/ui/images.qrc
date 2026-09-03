@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/png">
+    <file>images/select.png</file>
+    <file>images/ai.png</file>
+    <file>images/basic_count.png</file>
+    <file>images/custom_process.png</file>
+    <file>images/guide.png</file>
+    <file>images/guide1.png</file>
+    <file>images/view.png</file>
+    <file>images/img_draw.png</file>
+    <file>images/quit.png</file>
+    <file>images/setting.png</file>
+    <file>images/sift.png</file>
+    <file>images/single_strip.png</file>
+    <file>images/sql.png</file>
+    <file>images/openfile.png</file>
+    <file>images/run.png</file>
+    <file>images/stop.png</file>
+    <file>images/save.png</file>
+    <file>images/recall.png</file>
+    <file>images/about.png</file>
+    <file>images/pilab-logo_new.png</file>
+  </qresource>
+  <qresource prefix="/ico">
+    <file>images/pilab_logo.ico</file>
+  </qresource>
+</RCC>
